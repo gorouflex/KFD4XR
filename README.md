@@ -5,10 +5,17 @@ Yes, i fixed some KFD stuff to work on iPhone XR
 1. Fork my repo
 2. Edit dynamic_info.h, add your iOS version offfsets from [Lrdsnow's offsets repo](https://github.com/Lrdsnow/kfd_offsets) (Only for XR)
 3. Create a PR with detail like: Offsets for iOS 16.5
-## Preview
-
 ## Currently support
 - iOS 16.6 Beta
+## Preview
+
+<p align="left">          
+  <img src="https://cdn.discordapp.com/attachments/1135025151956754523/1136540268749934637/IMG_0040.png">
+  <img src="https://cdn.discordapp.com/attachments/1135025151956754523/1136540269186121728/IMG_0041.png">
+  <img src="https://cdn.discordapp.com/attachments/1135025151956754523/1136540269601378425/IMG_0042.png">
+  <img src="https://cdn.discordapp.com/attachments/1135025151956754523/1136540269983043664/IMG_0038.png">
+</p>
+
 # Thanks to
 - [GenericCoding](https://github.com/GenericCoding) for posi0nKFD
 - [Lrdsnow](https://github.com/Lrdsnow) for fixes
