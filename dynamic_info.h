@@ -104,6 +104,9 @@ struct dynamic_info {
 };
 
 const struct dynamic_info kern_versions[] = {
+
+// iPhone XR offsets //
+   // iOS 16.6 Beta 1 //
     {
         .kern_version = "Darwin Kernel Version 22.6.0: Tue May  9 06:18:00 PDT 2023; root:xnu-8796.140.12.502.1~12/RELEASE_ARM64_T8020",
         .fileglob__fg_ops = 0x28,
@@ -183,6 +186,8 @@ const struct dynamic_info kern_versions[] = {
         .kernelcache__vm_page_array_ending_addr = 0xfffffff00a288908,
         .kernelcache__vn_kqfilter = 0xfffffff007ec8c44
     },
+   // End iOS 16.6 Beta 1 //
+
 };
 
 #endif /* dynamic_info_h */
