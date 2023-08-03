@@ -1,6 +1,6 @@
 # KFD4XR
 Yes, i fixed some KFD stuff to work on iPhone XR
-<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/gorouflex/afkbot/total?style=for-the-badge">
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/gorouflex/kfd4xr/total?style=for-the-badge">
 ## How to add your offsets?
 1. Fork my repo
 2. Edit dynamic_info.h, add your iOS version offfsets from [Lrdsnow's offsets repo](https://github.com/Lrdsnow/kfd_offsets) (Only for XR)
