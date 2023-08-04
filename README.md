@@ -1,10 +1,10 @@
 # KFD4XR
 Yes, i fixed some KFD stuff to work on iPhone XR
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/gorouflex/kfd4xr/total?style=for-the-badge">
-## How to add your offsets?
-1. Fork my repo
-2. Edit dynamic_info.h, add your iOS version offfsets from [Lrdsnow's offsets repo](https://github.com/Lrdsnow/kfd_offsets) (Only for XR)
-3. Create a PR with detail like: Offsets for iOS 16.5
+# Include
+- KFDFontOverwrite for XR (16.2->16.6 Beta 1)
+- posiOnKFD for XR (16.2->16.6 Beta 1)
+- Chicken Butt for XR (16.2->16.6 Beta 1)
 ## Currently support
 - iOS 16.6 Beta 1 (Tested)
 - iOS 16.5 (Unknow)
@@ -26,3 +26,4 @@ Yes, i fixed some KFD stuff to work on iPhone XR
 - [GenericCoding](https://github.com/GenericCoding) for posi0nKFD
 - [Lrdsnow](https://github.com/Lrdsnow) for fixes
 - [hrtowii](https://github.com/hrtowii) for KFDFontOverwrite
+- [leminlimez](https://github.com/leminlimez) for Chiken Butt
