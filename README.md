@@ -8,13 +8,13 @@ Yes, i fixed some KFD stuff to work on iPhone XR
 - posiOnKFD for XR (16.2->16.6 Beta 1)
 - Chicken Butt v1.1 for XR (16.2->16.6 Beta 1)
 ## Currently support
-- iOS 16.6 Beta 1 (Tested)
-- iOS 16.5 (Failed - Unknow reason, try to fix)
-- iOS 16.4.1 (Unknow)
-- iOS 16.4 (Unknow)
-- iOS 16.3.1 (Unknow)
-- iOS 16.3 (Unknow)
-- iOS 16.2 (Unknow)
+- iOS 16.6 Beta 1 (Tested✅)
+- iOS 16.5 (Tested✅)
+- iOS 16.4.1 (Unknow❓)
+- iOS 16.4 (Unknow❓)
+- iOS 16.3.1 (Unknow❓)
+- iOS 16.3 (Unknow❓)
+- iOS 16.2 (Unknow❓)
 ## Preview
 
 <p align="left">          
