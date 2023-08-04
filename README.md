@@ -12,7 +12,7 @@ Yes, i fixed some KFD stuff to work on iPhone XR
 - KFDFontOverwrite worked on XR since v1.2.0
 - misaka worked on XR since v1.9.7 but unstable
 - Chicken Butt failed
-- poói0nKFD unknow
+- posi0nKFD unknow
 ## Currently support
 - iOS 16.6 Beta 1 (Tested ✅)
 - iOS 16.5 (Tested ✅)
