@@ -15,6 +15,9 @@ Yes, i fixed some KFD stuff to work on iPhone XR
 - iOS 16.3.1 (Unknow❓)
 - iOS 16.3 (Unknow❓)
 - iOS 16.2 (Unknow❓)
+
+## Caution
+Sometimes the app will crash your phone...this is kfd skill issue, just try again next boot and let the app do the rest!
 ## Preview
 
 <p align="left">          
