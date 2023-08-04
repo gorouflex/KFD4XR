@@ -18,7 +18,7 @@ Yes, i fixed some KFD stuff to work on iPhone XR
 - iOS 16.5 (Tested ✅)
 - iOS 16.4.1 (Unknow❓)
 - iOS 16.4 (Unknow❓)
-- iOS 16.3.1 (Failed❌, only work with only 1 offset cannot combine each other, skill issue)
+- iOS 16.3.1 (Failed ❌, only work with only 1 offset cannot combine each other, this is my skill issue😓)
 - iOS 16.3 (Unknow❓)
 - iOS 16.2 (Unknow❓)
 
