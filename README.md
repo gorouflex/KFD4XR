@@ -15,7 +15,7 @@ Yes, i fixed some KFD stuff to work on iPhone XR
 - posi0nKFD unknow
 ## Currently support
 - iOS 16.6 Beta 1 (Tested ✅)
-- iOS 16.5 (Tested ✅)
+- iOS 16.5 (Tested ✅,partially )
 - iOS 16.4.1 (Unknow❓)
 - iOS 16.4 (Unknow❓)
 - iOS 16.3.1 (Failed ❌, only work with only 1 offset cannot combine each other, this is my skill issue😓)
