@@ -14,12 +14,14 @@ Yes, i fixed some KFD stuff to work on iPhone XR
 - Chicken Butt failed
 - posi0nKFD unknow
 ## Currently support
+Please stay at your current iOS version if it's below 16.6 Beta 1, the dev still try hard to fix offset issues
+
 - iOS 16.6 Beta 1 (Tested ✅)
-- iOS 16.5 (Tested ✅,partially )
-- iOS 16.4.1 (Unknow❓)
-- iOS 16.4 (Unknow❓)
-- iOS 16.3.1 (Failed ❌, only work with only 1 offset cannot combine each other, this is my skill issue😓)
-- iOS 16.3 (Unknow❓)
+- iOS 16.5 (Tested ✅)
+- iOS 16.4.1 (Failed ❌, kerm_version)
+- iOS 16.4 (Failed ❌, kerm_version)
+- iOS 16.3.1 (Failed ❌, kerm_version)
+- iOS 16.3 (Failed ❌, kerm_version)
 - iOS 16.2 (Unknow❓)
 
 ## Caution
