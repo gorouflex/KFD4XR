@@ -9,7 +9,7 @@ My mission is completed
 - KFDFontOverwrite worked on XR since v1.2.0
 - misaka worked on XR since v1.9.7
 - Chicken Butt failed
-- posi0nKFD unknow
+- posi0nKFD worked since v1.2.0
 
 ## Caution
 Sometimes the app will crash your phone...this is kfd skill issue, just try again next boot and let the app do the rest!
