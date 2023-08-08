@@ -1,28 +1,14 @@
 # KFD4XR
 Yes, i fixed some KFD stuff to work on iPhone XR
+My mission is completed
 
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/gorouflex/kfd4xr/total?style=for-the-badge">
-
-## Include
-
-- posiOnKFD for XR (16.5->16.6 Beta 1)
-- Chicken Butt v1.1 for XR (16.5->16.6 Beta 1)
 
 ## Global status
 - KFDFontOverwrite worked on XR since v1.2.0
 - misaka worked on XR since v1.9.7
 - Chicken Butt failed
 - posi0nKFD unknow
-## Currently support
-Please stay at your current iOS version if it's below 16.6 Beta 1, the dev still try hard to fix offset issues
-
-- iOS 16.6 Beta 1 (Tested ✅)
-- iOS 16.5 (Tested ✅)
-- iOS 16.4.1 (Failed ❌, kerm_version)
-- iOS 16.4 (Failed ❌, kerm_version)
-- iOS 16.3.1 (Failed ❌, kerm_version)
-- iOS 16.3 (Failed ❌, kerm_version)
-- iOS 16.2 (Unknow❓)
 
 ## Caution
 Sometimes the app will crash your phone...this is kfd skill issue, just try again next boot and let the app do the rest!
@@ -41,4 +27,4 @@ Sometimes the app will crash your phone...this is kfd skill issue, just try agai
 - [Lrdsnow](https://github.com/Lrdsnow) for fixes and offsets
 - [hrtowii](https://github.com/hrtowii) for KFDFontOverwrite
 - [leminlimez](https://github.com/leminlimez) for Chicken Butt
-- Rin and other tester...
+- Rin, SuperIndian560 and other tester...
